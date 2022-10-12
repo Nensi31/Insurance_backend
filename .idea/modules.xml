@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Insurance_backend.iml" filepath="$PROJECT_DIR$/.idea/Insurance_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nodeJs.iml" filepath="$PROJECT_DIR$/.idea/nodeJs.iml" />
     </modules>
   </component>
 </project>
